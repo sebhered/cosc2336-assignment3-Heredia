@@ -1,0 +1,4 @@
+call_id,arrival_time,severity,location_node
+C-001,08:00:00,5,9
+C-002,08:00:30,5,4
+C-003,08:01:00,3,8
